@@ -22,11 +22,11 @@ I made this script for these two pods, but I can't add every pod. So, to install
 
 Example: if your pod is joindiaspora:
 
-``
+````
 // @include     http://joindiaspora.com/stream
 // @include     http://joindiaspora.com/activity
 // @include     http://joindiaspora.com/aspects
-``
+````
 
 ## What this script does
 
