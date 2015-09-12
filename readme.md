@@ -12,7 +12,7 @@ Specially useful for official organisation account.
 
 ## My pod is not diaspora-fr.org nor framasphere.org
 
-I made this script for these two pods, but I can't add every pod. So, to install this script for **your** pod:
+I made this script for these two pods, but it could be adapted and add to other pods. So, to install this script for **your** pod:
 
 * Go to your browser settings (Firefox ``about:addons``)
 * ``User Scripts``
