@@ -1,6 +1,8 @@
 Diaspora* Public Posts
 ======================
 
+**[Lire la version française](readme-fr.md)**
+
 Specially useful for official organisation account.
 
 ## Install
