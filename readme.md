@@ -5,7 +5,7 @@ Specially useful for official organisation account.
 
 ## Install
 
-* Install browser extension [Scriptish](https://addons.mozilla.org/firefox/addon/scriptish) or [GreaseMonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) or whatever
+* Install browser extension [GreaseMonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) or [Scriptish](https://addons.mozilla.org/firefox/addon/scriptish) or whatever
 * Click [this link](https://raw.githubusercontent.com/SansPseudoFix/diaspora-public-posts/master/diaspora-public-posts.user.js)
 * Click ``Install``
 * Access to your account
@@ -14,18 +14,27 @@ Specially useful for official organisation account.
 
 I made this script for these two pods, but it could be adapted and add to other pods. So, to install this script for **your** pod:
 
+**With GreaseMonkey**:
+
 * Go to your browser settings (Firefox ``about:addons``)
 * ``User Scripts``
 * Click ``Edit`` in front of ``Diaspora* Public Posts``
-* Remove lines 8, 9, 10
-* Replace ``diaspora-fr.org`` lines 5, 6, 7 by your pod url
+* Click ``Settings``
+* Add your pod url in *Allowed pages** section (Don't forget to add a *joker* at the end : ``https://my-pod-url/*``)
+* Desactive and active the script to enable changes
+
+**Manually**:
+
+* Go to your browser settings (Firefox ``about:addons``)
+* ``User Scripts``
+* Click ``Edit`` in front of ``Diaspora* Public Posts``
+* Remove line 6
+* Replace ``diaspora-fr.org`` line 5 by your pod url (Don't forget to add a *joker* at the end : ``https://my-pod-url/*``)
 
 Example: if your pod is joindiaspora:
 
 ````
-// @include     http://joindiaspora.com/stream
-// @include     http://joindiaspora.com/activity
-// @include     http://joindiaspora.com/aspects
+// @include     http://joindiaspora.com/*
 ````
 
 ## What this script does
