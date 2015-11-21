@@ -16,7 +16,7 @@ J'ai fait ce script pour ces deux pods, donc si vous souhaitez l'utiliser sur un
 
 **Avec GreaseMonkey** :
 
-* Allez dans le gestionnaire de modules de votre navigateur (``CTRL+A`` sur Firefox)
+* Allez dans le gestionnaire de modules de votre navigateur (``CTRL+SHIFT+A`` sur Firefox)
 * Allez dans ``Scripts utilisateur``
 * Cliquez sur ``Préférences`` en face de ``Diaspora* Public Posts``
 * Dans la section ``Paramètres utilisateur`` -> ``Pages autorisées`` cliquez sur **Ajouter** et entrez l'url de votre pod en n'oubliez pas d'ajouter ``*`` à la fin.
