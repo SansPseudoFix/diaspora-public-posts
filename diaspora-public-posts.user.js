@@ -4,16 +4,13 @@
 // @namespace   diaspora-public-posts
 // @include     https://diaspora-fr.org/*
 // @include     https://framasphere.org/*
-// @version     1
+// @version     2016-05-15
 // @copyright   Public domain (http://unlicense.org/)
 // @grant       none
-// @require     https://greasyfork.org/scripts/12083-jquery-extras/code/jquery-extras.js?version=71338
 // ==/UserScript==
 
 /**
- *
  * Replace https://diaspora-fr.org/* and https://framasphere.org/* by https://your-pod-url/stream
- *
  */
 
 $(document).ready(function(){

@@ -42,7 +42,7 @@ Example: if your pod is joindiaspora:
 ## What this script does
 
 * Set publication with **Public** aspect (no need to remember to switch aspect before posting)
-* Download [jQuery extras](https://greasyfork.org/fr/scripts/12083-jquery-extras) file
+* ~~Download [jQuery extras](https://greasyfork.org/fr/scripts/12083-jquery-extras) file~~ (finally not required)
 
 ## What this script does not
 

@@ -40,7 +40,7 @@ Exemple : si votre pod est joindiaspora :
 ## Ce que fait ce script
 
 * Active **Public** par défaut (plus besoin de penser à l'activer)
-* Télécharge [jQuery extras](https://greasyfork.org/fr/scripts/12083-jquery-extras)
+* ~~Télécharge [jQuery extras](https://greasyfork.org/fr/scripts/12083-jquery-extras)~~ (en fait, non)
 
 ## Ce que ce script ne fait pas
 
