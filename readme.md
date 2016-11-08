@@ -1,3 +1,5 @@
+**Since [this PR](https://github.com/diaspora/diaspora/pull/7118) is merged, this script is useless if your pod is running diaspora* >= 0.6.1.0.**
+
 Diaspora* Public Posts
 ======================
 
