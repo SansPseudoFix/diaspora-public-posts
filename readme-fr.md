@@ -1,3 +1,5 @@
+**Depuis que [cette PR](https://github.com/diaspora/diaspora/pull/7118) a été mergée, ce script n'est plus nécessaire si votre pod utilise diaspora* >= 0.6.1.0.**
+
 Diaspora* Public Posts
 ======================
 
